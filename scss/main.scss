@@ -1,0 +1,16 @@
+// connect the libraries
+@import "~bootstrap/scss/bootstrap";
+@import "~swiper/css/swiper.css";
+
+// connect out files with styles
+@import "header.scss";
+@import "foooter.scss";
+@import "common.scss";
+
+// connect fonts
+@font-face {
+  font-family: OpenSans;
+  src: url(/fonts/2211.ttf);
+}
+
+
